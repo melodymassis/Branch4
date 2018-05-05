@@ -4,7 +4,7 @@
 Data Analytics Bootcamp
 * Group Project 1: BART Ridership Data
 
-* Questions address by the team:
+Questions address by the team:
 - Hourly trends – when should I ride Bart if I don’t want a crowded train?
 ![throughput](throughput.png)
 
