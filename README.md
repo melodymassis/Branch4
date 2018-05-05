@@ -1,6 +1,5 @@
 # BRANCHFOUR
-UC Berkeley Extension
-Data Analytics Bootcamp
-Group Project 1
+**UC Berkeley Extension**
 
-BART Ridership Data
+Data Analytics Bootcamp
+* Group Project 1: BART Ridership Data
