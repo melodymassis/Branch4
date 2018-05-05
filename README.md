@@ -3,4 +3,5 @@
 
 Data Analytics Bootcamp
 * Group Project 1: BART Ridership Data
-!Throughput.png
+
+![Throughput]
