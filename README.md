@@ -16,6 +16,7 @@ Note: This is aggregate data for one full year, 2016 total throughput.
 ![seasonality](seasonality.png)
 
 **Code Key Learnings**
-When utilizing Pandas there is no need to download a large CSV file if a link to it is already available:
+
+- When utilizing Pandas to read csv files there is no need to download a large CSV file if a link to it is already available. BART.gov already hosts the data on their site:
 
 ![jupyterNotebook](jupyterNotebook.png)
