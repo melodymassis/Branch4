@@ -1,8 +1,7 @@
 # BRANCH 4
-**UC Berkeley Extension**
+**UC Berkeley Extension Data Analytics**
 
-Data Analytics Bootcamp
-* Group Project 1: BART Ridership Data
+* Group Project 1: BART Ridership Data *
 
 Questions address by the team:
 - Hourly trends – when should I ride Bart if I don’t want a crowded train?
